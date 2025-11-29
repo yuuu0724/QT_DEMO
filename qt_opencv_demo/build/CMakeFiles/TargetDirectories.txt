@@ -1,0 +1,4 @@
+/home/cat/duan/Qt_Demo/qt_opencv_demo/build/CMakeFiles/rebuild_cache.dir
+/home/cat/duan/Qt_Demo/qt_opencv_demo/build/CMakeFiles/edit_cache.dir
+/home/cat/duan/Qt_Demo/qt_opencv_demo/build/CMakeFiles/qt_opencv_demo.dir
+/home/cat/duan/Qt_Demo/qt_opencv_demo/build/CMakeFiles/qt_opencv_demo_autogen.dir

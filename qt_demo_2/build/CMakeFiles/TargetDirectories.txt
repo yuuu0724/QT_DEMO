@@ -1,0 +1,3 @@
+/home/cat/duan/Qt_Demo/qt_demo_2/build/CMakeFiles/rebuild_cache.dir
+/home/cat/duan/Qt_Demo/qt_demo_2/build/CMakeFiles/edit_cache.dir
+/home/cat/duan/Qt_Demo/qt_demo_2/build/CMakeFiles/qt_demo_2.dir
